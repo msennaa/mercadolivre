@@ -1,11 +1,16 @@
 import React from 'react';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import MercadoProvider from './context/MercadoProvider';
+import Main from './pages/Main';
 
-class App extends React.Component {
-  render() {
-    return (
-      <h1>Iniciando projeto</h1>
-    );
-  }
+export default function App() {
+  return (
+    <MercadoProvider>
+      <BrowserRouter>
+        <Switch>
+          <Route path="/" exact component={ Main } />
+        </Switch>
+      </BrowserRouter>
+    </MercadoProvider>
+  );
 }
-
-export default App;
