@@ -1,0 +1,15 @@
+.Footer {
+  height: 100px;
+  background-color: #FFF159;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+}
+
+.card {
+  width: 15%;
+}
+
+.pagseguro {
+  width: 8%;
+}

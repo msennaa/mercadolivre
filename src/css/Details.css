@@ -1,0 +1,101 @@
+.details-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #f1f1f1;
+}
+
+a {
+  text-decoration: none;
+  color: #3483fa;
+}
+
+.details-header {
+  background-color: #FFF159;
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+}
+
+.items-number {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.button-logo {
+  background-color: #FFF159;
+  width: 10%;
+  cursor: pointer;
+}
+
+.button-cart-logo {
+  width: 6%;
+  background-color: #FFF159;
+  cursor: pointer;
+}
+
+.details-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 300px;
+  align-items: center;
+}
+
+.aaa { 
+  width: 100%;
+}
+
+.shop {
+  width: 100%;
+}
+
+.shop {
+  align-self: flex-start;
+}
+
+.main-content {
+  display: grid;
+  margin: 50px;
+  background-color: white;
+  grid-template-columns: 65fr 35fr;
+  padding: 30px;
+}
+
+.description {
+  border-top: 1px solid black;
+  align-items: center;
+}
+
+.description h3 {
+  text-align: center;
+}
+
+.panel {
+  border-right: 1px solid black;
+}
+
+.gallery {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-container {
+  margin-top: 15%;
+  display: flex;
+  flex-direction: column;
+}
+
+.button-container button {
+  font-size: 15px;
+  border-radius: 4px;
+  padding: 12px 10px;
+  margin-top: 10px;
+  background-color: #3483fa;
+  color: white;
+  cursor: pointer;
+}
+
+.product-title {
+  margin-bottom: 10%;
+}

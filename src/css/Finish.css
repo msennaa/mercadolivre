@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');
+
+.Finish {
+  display: flex;
+  align-items: center;
+  background-color: #FFF159;
+  height: 1000px;
+}
+
+.finish-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.finish-content {
+  font-size: 36px;
+  font-family: 'Comic Neue';
+}
+
+.Finish img {
+  margin-top: 5%;
+  width: 40%;
+}
+
