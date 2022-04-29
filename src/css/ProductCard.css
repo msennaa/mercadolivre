@@ -1,0 +1,34 @@
+.product-card {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  border: 1px solid gray;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 10px;
+  text-decoration: none;
+  background-color: white;
+  height: 230px;
+}
+
+.product-image {
+  height: 105px;
+  width: 100px;
+  margin-bottom: 10px;
+}
+
+.product-name {
+  width: 90%;
+  color: #3483fa;
+  margin-bottom: 8px;
+}
+
+.product-price {
+  color: black;
+  margin-bottom: 8px;
+}
+
+.frete {
+  color: #00a650;
+  font-weight: bold;
+}
