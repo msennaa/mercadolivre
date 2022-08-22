@@ -1,6 +1,6 @@
 # Boas-vindas ao repositório de uma Online Store !
 
-O projeto é uma inspiração ao site do Mercado Livre.Esta aplicação possui as seguintes funcionalidades:
+O projeto é uma inspiração do site Mercado Livre.Esta aplicação possui as seguintes funcionalidades:
 
 1- Buscar por qualquer produto catalogado no mercado livre.
 
