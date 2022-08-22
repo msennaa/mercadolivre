@@ -22,6 +22,15 @@ O projeto é uma inspiração ao site do Mercado Livre.Esta aplicação possui a
 
 <details>
   <summary>
+    <strong>🕵🏽‍♀️ Api Utilizada</strong>
+  </summary>
+  
+  - [API](https://developers.mercadolivre.com.br/)
+
+</details>
+
+<details>
+  <summary>
     <strong>🪛 Scripts relevantes do <code>package.json</code></strong>
   </summary><br>
 
