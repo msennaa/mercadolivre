@@ -60,6 +60,17 @@ O projeto é uma inspiração ao site do Mercado Livre.Esta aplicação possui a
   
   </details>
   
+  <details>
+  <summary>
+    <strong>🫣 Deploy</strong>
+  </summary>
+  
+  - Quer testar sem clonar o projeto? [Clique aqui!](https://senaml.herokuapp.com/)
+
+</details>
+  
+  
+  
 <details>
   <summary>
     <strong>🗣 Me dê feedbacks sobre o projeto!</strong>
