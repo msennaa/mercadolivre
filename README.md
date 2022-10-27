@@ -26,7 +26,6 @@ O projeto é uma inspiração no site do Mercado Livre.Esta aplicação possui a
   </summary>
   
   - [API](https://developers.mercadolivre.com.br/)
-
 </details>
 
 <details>
