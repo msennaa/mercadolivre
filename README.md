@@ -35,7 +35,6 @@ O projeto é uma inspiração no site do Mercado Livre.Esta aplicação possui a
 
   - `start`: Roda a aplicação;
     - *uso (na raiz do projeto): `npm start`*
-
 </details>
 
 <details>
